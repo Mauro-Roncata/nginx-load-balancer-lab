@@ -1,0 +1,17 @@
+# Arquivos do macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Arquivos de editores de texto/IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Arquivos de log e temporários do Linux
+*.log
+tmp/
